@@ -1,4 +1,5 @@
 #  Instalación del Kotlin Kernel en jupyter notebook
+Fuente: https://kotlinlang.org/docs/get-started-with-kotlin-notebooks.html#next-step
 # Fuente del Dataframe
 https://github.com/Kotlin/dataframe/blob/master/examples/notebooks/netflix/netflix_titles.csv
 
